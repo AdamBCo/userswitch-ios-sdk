@@ -4,7 +4,7 @@
 
 # UserSwitch iOS SDK
 
-The UserSwitch iOS SDK supports products featured on http://www.UserSwitch.io
+The UserSwitch iOS SDK supports products featured on http://www.userswitch.com
 
 If you do not have a developer account, please register for one [HERE](http://www.userSwitch.com/register).
 
