@@ -1,4 +1,4 @@
-<p align="center"><img src="https://s3-us-west-1.amazonaws.com/userswitch-web-assets/userswitch_logo.png" width="300" alt="UserSwitch Logo"/></p>
+<p align="center"><img src="https://s3-us-west-1.amazonaws.com/userswitch-web-assets/logo.png" width="300" alt="UserSwitch Logo"/></p>
 
 
 
